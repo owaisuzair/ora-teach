@@ -1,0 +1,16 @@
+a{
+    text-decoration: none!important;
+}
+/* =============start navbar============== */
+.navbar-brand img{
+width: 10vw;
+}
+.collapse{
+    justify-content: center;
+}
+.primary-btn{
+    background-color: brown;
+    padding: 12px 30px;
+    border-radius: 5px;
+
+}
